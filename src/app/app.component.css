@@ -1,0 +1,67 @@
+.userNameHeader{
+    color: blue;
+    text-align: center;
+    margin-left:relative;
+    margin-right:relative;
+    
+}
+
+.itemCountHeader{
+    color: blue;
+    text-align: center;
+    margin-left:relative;
+    margin-right:relative;
+    
+}
+
+.table{
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid black;
+    width: 40%;
+}
+
+.content{
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid black;
+    width: 40%;
+}
+
+tr:nth-child(odd) {background-color: #e6e6e6;}
+td {
+    border-bottom: 1px solid #A9A9A9;
+    padding-bottom: 1em;
+    border-right: 1px solid #A9A9A9;
+    
+  }
+
+th{
+    background-color: white;
+    font-size: large;
+    color: black;
+    text-align: left;
+    padding-bottom: 1em;
+    border-right: 1px solid #A9A9A9;
+}
+
+.addingItemWrapper{
+
+    text-align: center;
+    margin-left:auto;
+    margin-right:auto;
+    width: 20%;
+    
+}
+
+.col-auto{
+    
+    padding-bottom: 1em;
+}
+
+.form-check{
+
+    text-align: center;
+    margin-left:auto;
+    margin-right:auto;
+}
